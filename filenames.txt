@@ -1,1 +1,1 @@
-INPUT_PPGDATA/Tachy_5.txt
+Tachy_5.txt
